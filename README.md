@@ -1,5 +1,4 @@
 # Formal-Languages-and-Automata-Theory 
- Finite Automata
 LFA projects:
 
 # Project 1
